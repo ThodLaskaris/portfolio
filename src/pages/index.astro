@@ -1,0 +1,10 @@
+---
+import MainLayout from '../Layouts/MainLayout.astro'
+import App from '../components/landing/App.svelte'
+import Navigation from '../components/navigation/Navigation.svelte'
+---
+
+<MainLayout title='ThodLaskaris'>
+    <Navigation client:load />
+    <App client:load />
+</MainLayout>
