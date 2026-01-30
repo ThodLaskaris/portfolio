@@ -1,0 +1,23 @@
+# Build & Runtime
+dist/
+.astro/
+node_modules/
+
+# Environment
+.env
+.env.production
+.env*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# System
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
