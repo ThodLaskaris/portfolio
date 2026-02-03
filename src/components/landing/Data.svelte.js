@@ -15,7 +15,7 @@ miniCv: [
     contact: {
         email: 'thodlas@icloud.com',
         linkedIn: 'https://www.linkedin.com/in/thodLaskaris/',
-        github: 'https://www.google.com',
+        github: 'https://github.com/thodLaskaris',
         description: "Interested in collaborating or have a project in mind? Feel free to reach out via email or connect through my digital profiles below."
     }, 
     projects: [
