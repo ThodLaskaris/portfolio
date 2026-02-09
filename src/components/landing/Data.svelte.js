@@ -2,7 +2,7 @@ export const profile = $state({
     name: 'Thodoris Laskaris',
     role: 'Software Engineer',
     location: 'Athens, Greece',
-    stack: 'TS, C#, Python, GO',
+    stack: 'C#, TS, GO, Python',
     focus: 'Backend, Architecture, DevOps',
     os: 'MacOS, Linux',
 miniCv: [
@@ -16,7 +16,7 @@ miniCv: [
         email: 'contact@thodlaskaris.dev',
         linkedIn: 'https://www.linkedin.com/in/thodLaskaris/',
         github: 'https://github.com/thodLaskaris',
-        description: "Interested in collaborating or have a project in mind? Feel free to reach out via email or connect through my digital profiles below."
+        description: 'Interested in collaborating or have a project in mind? Feel free to reach out via email or connect through my digital profiles below.'
     }, 
     projects: [
         {
