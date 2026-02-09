@@ -13,7 +13,7 @@ miniCv: [
     'Enhanced skillset in reverse engineering, analytical thinking, and technical problem solving'
 ],
     contact: {
-        email: 'thodlas@icloud.com',
+        email: 'contact@thodlaskaris.dev',
         linkedIn: 'https://www.linkedin.com/in/thodLaskaris/',
         github: 'https://github.com/thodLaskaris',
         description: "Interested in collaborating or have a project in mind? Feel free to reach out via email or connect through my digital profiles below."
