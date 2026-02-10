@@ -40,4 +40,4 @@ All commands are run from the root of the project, from a terminal:
 
 ## Preview
 
-Feel free to check [the preview ](https://thodlaskaris.pages.dev/)
+Feel free to check [the preview ](https://thodlaskaris.dev/)
