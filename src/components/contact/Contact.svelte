@@ -18,7 +18,7 @@
     <div class='max-w-2xl border-l border-primary/20 pl-8 space-y-4'>
         <p class='text-[clamp(1rem,1.5vw,1.1rem)] font-light text-text/60 leading-relaxed italic'>
             {profile.contact.description}
-        </p>
+<img src="https://img.shields.io/badge/dynamic/json?combined_as_sub_path=true&label=Contributions&query=$.total&url=https://github-contributions-api.deno.dev/ThodLaskaris.json&color=white&labelColor=black&style=flat-square" alt="GitHub Contributions">        </p>
     </div>
 
     <div class='grid grid-cols-1 md:grid-cols-2 gap-12 pl-8 pt-8 border-t border-primary/5'>

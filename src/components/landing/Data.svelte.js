@@ -58,7 +58,7 @@ miniCv: [
             id: 'groom-intelligence-platform',
             title: "Groom Intelligence Platform",
             description: [
-                "Developed a centralized intelligence platform using Go, Svelte, and Cloudflare D1 for multi-location business management.",
+                "Developed a centralized intelligence platform using Go, Svelte, and PostgreSQL for multi-location business management.",
                 "Implemented Natural Language Processing interfaces to replace traditional static forms, allowing data entry and commands through AI-driven prompts.",
                 "Designed a modular architecture to facilitate the integration of disparate data sources and automated processing modules.",
                 "Created high performance interactive dashboards for real time visualization of multi salon operational metrics."
@@ -69,7 +69,7 @@ miniCv: [
                 "Eliminated manual data aggregation across branches, significantly cutting down administrative overhead for the owner.",
                 "Enhanced operational control by transforming raw input into actionable insights for staff and inventory management."
             ],
-            tech: ["Go", "Svelte", "Cloudflare D1", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering"],
+            tech: ["Go", "Svelte", "PostgreSQL", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering"],
         },
         {
             id: 'phd-visual-artist-portfolio',
