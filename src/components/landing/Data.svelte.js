@@ -69,7 +69,7 @@ miniCv: [
                 "Eliminated manual data aggregation across branches, significantly cutting down administrative overhead for the owner.",
                 "Enhanced operational control by transforming raw input into actionable insights for staff and inventory management."
             ],
-            tech: ["Go", "Svelte", "PostgreSQL", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering"],
+            tech: ["Go", "Svelte", "Astro", "PostgreSQL", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering"],
         },
         {
             id: 'phd-visual-artist-portfolio',
