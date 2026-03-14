@@ -2,7 +2,7 @@ export const profile = $state({
     name: 'Thodoris Laskaris',
     role: 'Software Engineer',
     location: 'Athens, Greece',
-    stack: 'C#, TS, GO, Python',
+    stack: 'C#, TS, GO',
     focus: 'Backend, Architecture, DevOps',
     os: 'MacOS, Linux',
 miniCv: [
@@ -35,7 +35,7 @@ miniCv: [
             ],
             tech: [".NET Core", "MQTT", "Docker", "Microservices", "Python SDK", "GeoLocation", "Devops",
                 "React", "EFCore", "Domain Driven Design", "CQRS", "MediatR","Clean Architecture", "100% Unit Test Coverage",
-                "TanStack Query" ],
+                "TanStack Query", "Azure VM", "CI/CD Pipelines","PostgreSQL" ],
         },
         {
             id: 'municipal-gis-engine',
@@ -58,6 +58,7 @@ miniCv: [
             id: 'groom-intelligence-platform',
             title: "Groom Intelligence Platform",
             description: [
+                "Built all UI components from scratch using vanilla Svelte and native Web APIs only, with zero third-party dependencies, prioritizing performance, modularity and long-term maintainability.",
                 "Developed a centralized intelligence platform using Go, Svelte, and PostgreSQL for multi-location business management.",
                 "Implemented Natural Language Processing interfaces to replace traditional static forms, allowing data entry and commands through AI-driven prompts.",
                 "Designed a modular architecture to facilitate the integration of disparate data sources and automated processing modules.",
@@ -69,8 +70,31 @@ miniCv: [
                 "Eliminated manual data aggregation across branches, significantly cutting down administrative overhead for the owner.",
                 "Enhanced operational control by transforming raw input into actionable insights for staff and inventory management."
             ],
-            tech: ["Go", "Svelte", "Astro", "PostgreSQL", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering"],
+            tech: ["Go", "Svelte", "Astro", "PostgreSQL", "Redis", "Docker", "LLM Integration", "AI Prompt Engineering", "Azure VM", "Cloudflare Pages", "CI/CD Pipelines", "100% Unit Test Coverage" ],
         },
+        {
+    id: 'chef-portfolio',
+    title: "Executive Chef Portfolio & Headless E-commerce",
+    description: [
+            "Built all UI components from scratch using vanilla Svelte and native Web APIs only, with zero third-party dependencies, prioritizing performance, modularity and long-term maintainability.",
+        "Designed and developed a high-end personal portfolio for an Executive Chef operating across US and Europe, with a focus on editorial aesthetics and premium brand identity.",
+        "Architected a single-page application using Svelte and Astro, with hash-based navigation and smooth scroll-driven section transitions.",
+        "Implemented a scroll-reveal animation system using Intersection Observer API for performant, viewport-aware content choreography.",
+        "Built a multi-image hero carousel with crossfade transitions and dynamic caption rendering, optimized for large format photography.",
+        "Engineered a scroll-animated career timeline with alternating bi-directional layout and precise entry point triggering.",
+        "Engineered a headless e-commerce integration using Shopify Storefront API and a custom Go backend, decoupling the storefront from platform constraints.",
+    ],
+    impact: [
+        "Delivered a production-ready digital presence for a professional featured in Brummell, Spotify, Le Monde,Masterchef, LiFO and more, enhancing his online visibility and brand prestige.",
+        "Achieved a fully responsive, performance-optimized site with minimal bundle footprint using Astro's partial hydration model.",
+        "Enabled a fully custom purchasing experience through a headless Shopify architecture, maintaining design integrity without platform UI limitations.",
+    ],
+    tech: [
+        "Svelte", "Astro", "Cloudflare Pages",
+        "Intersection Observer API", "SPA Architecture",
+        "Headless Shopify", "Shopify Storefront API", "Go", "REST API","E-commerce Integration","Azure VM", "CI/CD Pipelines", "Tailwind CSS"
+    ]
+},
         {
             id: 'phd-visual-artist-portfolio',
             title: "PhD Visual Artist Portfolio",
@@ -85,7 +109,7 @@ miniCv: [
                 "Delivered a minimalist, distraction-free UI that centers on artistic content, enhancing academic and professional visibility.",
                 "Optimized global asset delivery through edge caching, significantly reducing latency for international art curators and visitors."
             ],
-            tech: ["Next.js", "React", "Tailwind CSS", "Framer Motion", "Vercel Edge Network", "Asset Optimization", "Image Processing"]
+            tech: ["Next.js", "React", "Framer Motion","Tailwind CSS", "Cloudflare Pages", "CI/CD Pipelines", "Asset Optimization", "Image Processing"]
         }
     ]
 });
